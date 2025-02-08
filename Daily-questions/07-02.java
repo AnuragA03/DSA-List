@@ -1,3 +1,5 @@
+//! 3160. Find the Number of Distinct Colors Among the Balls
+
 class Solution {
     public int[] queryResults(int limit, int[][] queries) {
         // Map to store which color is assigned to each ball
